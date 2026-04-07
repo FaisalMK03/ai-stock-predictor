@@ -27,3 +27,5 @@ Built using Machine Learning and deployed with Streamlit.
 - yFinance API  
 
 ---
+## 🌍 Live Demo
+👉 https://ai-stock-predictor1.streamlit.app/
